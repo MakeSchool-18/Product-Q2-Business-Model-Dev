@@ -14,9 +14,9 @@
 * Is there Market Growth?
 * What is the Total Market?
 * What are Defining Characteristics
-**Sales Cycle?
-**Barriers to Entry?
-**B2B, B2C, B2B2C?
-**Etc
+  * Sales Cycle?
+  * Barriers to Entry?
+  * B2B, B2C, B2B2C?
+  * Etc
 *Existing Players/Competitors
 *Do a PEST Analysis
